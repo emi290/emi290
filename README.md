@@ -2,7 +2,7 @@
 - 👀 I’m interested in have some new experiences, exploring programming world and working on a best version of myself.
 - 🌱 I’m currently learning phyton and html.
 - 💞️ I’m looking to collaborate with nice people, that can aggregate my journey.
-- 📫 To reach me, you can send me an e-mail in emilyoliveira1221@gmail.com
+- 📫 To reach me, you can send me an e-mail at emilyoliveira1221@gmail.com
 - 🥰 See you later, guys, xoxo.
   
 <!---
